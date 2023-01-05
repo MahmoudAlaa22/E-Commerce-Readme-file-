@@ -11,8 +11,6 @@ E-Commerce Demo App built by flutter❤️
 ![E-Commerce App (1)](https://user-images.githubusercontent.com/60518534/210826474-76835f68-7a88-46ea-b766-9fe033b94501.gif)
 
 
-![Logo](https://user-images.githubusercontent.com/60518534/210779417-8684f680-f975-4215-a28b-1f17291a6429.png)
-
 
 # Screenshots
 ## Light Mode
