@@ -8,6 +8,22 @@ E-Commerce Demo App built by flutter❤️
 ## Download App 
 <a href="[https://github.com/MahmoudAlaa22/WeatherApp-Readme-file/releases/download/v1/weather.apk](https://github.com/MahmoudAlaa22/E-Commerce-Readme-file-/releases/download/V1.0/app-release.apk)"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
+## ⚙ Tools Used
+- Flutter 
+- Dart
+- Postman
+- lottie
+
+## ✨ Features
+✔ Beautiful UI.\
+✔ User Authenticatin "SignUp, SignIn" with auto-logoIn and other related services\
+✔ Light & Dark mode.\
+✔ User Authenticatin "SignUp, SignIn" with auto-logoIn and other related services.\
+✔ Supports Arabic and English languages.\
+✔ Add to cart and checkout.\
+✔ Manage orders.\
+✔ Pay by any payment method.\
+
 ![E-Commerce App (1)](https://user-images.githubusercontent.com/60518534/210826474-76835f68-7a88-46ea-b766-9fe033b94501.gif)
 
 
@@ -64,16 +80,6 @@ E-Commerce Demo App built by flutter❤️
   Payment Method Page                 |   Favorite Page        |  Shipping address Page
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/60518534/210785992-a0d01167-1c54-424c-8454-aeb9eb37f1a7.jpg)|![](https://user-images.githubusercontent.com/60518534/210787904-641c8d78-1554-4f91-b418-6e497bb507ce.jpg)|![](https://user-images.githubusercontent.com/60518534/210791194-ae0849bb-da0f-4496-bd49-41607d58b022.jpg)
-
-## Features
-
-- Beautiful UI.
-- Light & Dark mode.
-- User Authenticatin "SignUp, SignIn" with auto-logoIn and other related services.
-- Supports Arabic and English languages.
-- Add to cart and checkout.
-- Manage orders.
-- Pay by any payment method.
 
 ## API Reference
 ### The used API is inspired by the course provided by [Eng.Abdullah Mansour](https://www.linkedin.com/in/abdullah-mansour-346516159/)
