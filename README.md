@@ -2,7 +2,7 @@
 # E-Commerce-App
 
 E-Commerce Demo App built by flutter❤️
-
+![E-Commerce App (1)](https://user-images.githubusercontent.com/60518534/210826474-76835f68-7a88-46ea-b766-9fe033b94501.gif)
 #### [Video](https://www.linkedin.com/posts/mahmoudalaa2210_tdd-bloc-flutterabrbloc-activity-6993572439372775424-Jabx?utm_source=share&utm_medium=member_desktop)
 
 ## Download App 
@@ -23,9 +23,6 @@ E-Commerce Demo App built by flutter❤️
 ✔ Add to cart and checkout.\
 ✔ Manage orders.\
 ✔ Pay by any payment method.\
-
-![E-Commerce App (1)](https://user-images.githubusercontent.com/60518534/210826474-76835f68-7a88-46ea-b766-9fe033b94501.gif)
-
 
 
 # Screenshots
