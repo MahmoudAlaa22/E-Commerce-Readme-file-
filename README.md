@@ -19,10 +19,11 @@ E-Commerce Demo App built by flutter❤️
 ✔ User Authenticatin "SignUp, SignIn" with auto-logoIn and other related services\
 ✔ Light & Dark mode.\
 ✔ User Authenticatin "SignUp, SignIn" with auto-logoIn and other related services.\
-✔ Supports Arabic and English languages.\
+✔ The app also supports Arabic and English 🌐\
+✔ The design is suitable for all screen sizes👌✨.\
 ✔ Add to cart and checkout.\
 ✔ Manage orders.\
-✔ Pay by any payment method.\
+✔ Pay by any payment method.💳💵\
 
 
 # Screenshots
@@ -196,10 +197,6 @@ lib
 │──── injection_container.dart
 └──── main.dart    
 ```
-
-## Pull Requests
-
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
 
 ## Packages
