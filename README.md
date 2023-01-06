@@ -69,6 +69,7 @@ E-Commerce Demo App built by flutter❤️
 
 - Beautiful UI.
 - Light & Dark mode.
+- User Authenticatin "SignUp, SignIn" with auto-logoIn and other related services.
 - Supports Arabic and English languages.
 - Add to cart and checkout.
 - Manage orders.
