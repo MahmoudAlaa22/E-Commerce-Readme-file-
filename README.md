@@ -70,8 +70,8 @@ E-Commerce Demo App built by flutter❤️
 - Beautiful UI.
 - Light & Dark mode.
 - Supports Arabic and English languages.
-- Can add any product to the cart.
-- Can track your order.
+- Add to cart and checkout.
+- Manage orders.
 - Pay by any payment method.
 
 ## API Reference
